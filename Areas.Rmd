@@ -24,6 +24,15 @@ Area <- pi*r^2
 
 ```{r}
 Lado <- 3
-Area cuadrado <- Lado^2
+AreaCuadrado <- Lado^2
 
 ```
+
+## Area triangulo
+
+
+
+```{r}
+Altura <- 3
+Base <- 2.5
+AreaTriangulo <- (Base * Altura) / 2 
