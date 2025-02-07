@@ -18,3 +18,12 @@ Area <- pi*r^2
 
 ```
 
+## Area cuadrado
+
+
+
+```{r}
+Lado <- 3
+Area cuadrado <- Lado^2
+
+```
