@@ -36,3 +36,15 @@ AreaCuadrado <- Lado^2
 Altura <- 3
 Base <- 2.5
 AreaTriangulo <- (Base * Altura) / 2 
+```
+## Area Rectangulo
+
+
+
+```{r}
+Altura <- 3
+Base <- 2.5
+AreaRectangulo <- Base * Altura
+```
+
+
